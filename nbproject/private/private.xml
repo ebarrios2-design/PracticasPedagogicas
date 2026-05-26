@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/vista/LoginFrame.java</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/util/SesionUsuario.java</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/util/db.properties</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/dao/GrupoInstitucionDAO.java</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/dao/UsuarioDAO.java</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/util/ConexionDB.java</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/vista/MainFrame.java</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/util/HashUtil.java</file>
+            <file>file:/D:/Users/edwin/Documents/NetBeansProjects/PracticasPedagogicas/src/practicaspedagogicas/modelo/Usuario.java</file>
+        </group>
+    </open-files>
+</project-private>
